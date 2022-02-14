@@ -1,4 +1,4 @@
-# simple_keylogger
+# Simple_Keylogger
 
 I juste wrote a imple keylogger for Windows
 
