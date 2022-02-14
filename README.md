@@ -1,6 +1,6 @@
 # Simple_Keylogger
 
-I juste wrote a imple keylogger for Windows
+I juste wrote a simple keylogger for Windows
 
 I use pynput to catch user inputs.
 
