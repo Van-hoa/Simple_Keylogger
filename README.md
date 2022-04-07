@@ -10,4 +10,4 @@ This will catch every input from the user until he press the escape key.
 The record will be saved into a file in the same folder with a name like "[computername]_[date]_[time]_record.txt".
 
 
-Feel free to use, modify and improve this script and let me know what changes you made !
+Feel free to use, modify and improve this script and let me know what you have changed !
